@@ -1,0 +1,34 @@
+React.JS Task 
+Develop a ReactJS horoscope app using the following details: 
+UI should have input provision for the following, 
+Upon adding all required input fields the UI should display the horoscope 
+details which should include (but not limited to): 
+Horoscope data should be fetched from an online public API
+Horoscope sign (Leo, Libra, Aquarius etc) 
+Name 
+Horoscope date (today, tomorrow or yesterday) 
+Email address 
+Submit button to fetch the horoscope details 
+Name of the User
+Horoscope date 
+Horoscope description 
+Horoscope sign 
+Bonus Points: 
+ 
+• Use ReactJS 
+• Form validation 
+◦ All fields are required 
+◦ Email address validation 
+• If the current date falls within the entered horoscope date, the UI 
+should indicate so 
+◦ eg. If the horoscope sign selected is "Capricorn" (date range: Dec 
+22 - Jan 19) and today's date is Jan 17, the horoscope 
+description's background colour will be displayed with an 
+alternate colour. 
+• Details persist on page refresh 
+• UI should be a single page UI with all components accessible at all 
+times 
+• UI should be optimized for laptop screens (1024px minimum) 
+•
+◦ Bonus if optimized for mobile screens (425px) 
+• Use React UI Component library - "PrimeReact" 
