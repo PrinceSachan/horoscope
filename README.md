@@ -1,4 +1,5 @@
-# Getting Started with Create React App! [image-1](https://user-images.githubusercontent.com/73236785/159124125-7d262b53-8af1-4b19-9839-b2025a059cab.jpeg)
+# Getting Started with Create React App! 
+![image-1](https://user-images.githubusercontent.com/73236785/159124125-7d262b53-8af1-4b19-9839-b2025a059cab.jpeg)
 ![image-2](https://user-images.githubusercontent.com/73236785/159124183-24f97b4a-6bf2-4727-b333-e2d46f16c97d.jpeg)
 ![image-3](https://user-images.githubusercontent.com/73236785/159124202-68d0e449-4f7f-48a6-8e42-3d54d31d3c44.jpeg)
 ![image-4](https://user-images.githubusercontent.com/73236785/159124217-eb0567d4-6d73-45c1-ba4c-1776e617c4e3.jpeg)
